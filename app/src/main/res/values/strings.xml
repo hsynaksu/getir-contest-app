@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Getir Contest App</string>
+
+    <string name="enter_info">Please touch send to receive shapes!</string>
+    <string name="action_submit">Send</string>
+
+</resources>
